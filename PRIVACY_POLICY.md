@@ -5,7 +5,11 @@
 **开发者：十里桃花的工作室1**
 
 > **在线地址（提交给 TapTap 隐私合规资质的链接）：**
-> <https://cdn.jsdelivr.net/gh/lenren9/qingyuan-privacy@main/privacy.txt>
+> <https://fastly.jsdelivr.net/gh/lenren9/qingyuan-privacy@main/privacy.txt>
+>
+> 备用镜像：`https://cdn.jsdelivr.net/gh/lenren9/qingyuan-privacy@main/privacy.txt`
+> —— 同为 jsDelivr 同一份内容，只是边缘节点不同。国内访问 `fastly` 节点稳定，
+> `cdn` 节点实测多次连接超时（Cloudflare 边缘被干扰），因此提交资质时用 fastly 域名。
 >
 > 源仓库 <https://github.com/lenren9/qingyuan-privacy>，正文源文件即本文件。
 > 游戏内也提供同一份政策的精简版（标题栏下方「隐私政策」按钮，见
